@@ -4,20 +4,43 @@
   <title>This is our website</title>
   
   <style>
-  
+      p {
+          color: red;
+          text-align: center;
+          font-size: 50px;
+      }
+      
+      .exampleClass {
+          color: purple;
+          background-color: beige;
+          border: 5px dashed turquoise;
+          border-radius: 25px;
+      }
+      
+      #exampleID {
+          color: blue;
+      }
   </style>
 </head>
 <body>
-  <h1>This is a heading</h1>
-  <p>this is a paragraph</p>
-  
   <ul>
+      <li><a href="index.html">Home Page</a></li> 
+      <li><a href="newpage.html">New Page</a></li>
+  </ul>
+    
+  <h1 class="exampleClass">This is a heading</h1>
+  <p>this is a paragraph</p>
+
+    <p>another paragraph</p>
+  
+  <ul class="exampleClass">
     <li>one</li>
     <li>two</li>
     <li>three</li>
   </ul>
+    
+    <p id="exampleID">example of an id</p>
   
-  <a href="https://www.google.com>This is a link</a>
-
+  <a href="https://www.google.com">This is a link</a>
 </body>
 </html>
