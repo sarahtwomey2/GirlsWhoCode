@@ -22,5 +22,8 @@ To use Bootstrap on your webpage, you need to add these tags inside of the head 
 <!-- Latest compiled JavaScript -->
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"></script> HTML```
 
+
+
+
 ## CSS
 [w3schools information about CSS](https://www.w3schools.com/css/default.asp)
