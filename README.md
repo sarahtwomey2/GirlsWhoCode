@@ -3,7 +3,7 @@
 ## [w3schools for more information about HTML and CSS](https://www.w3schools.com)
 
 ## Bootstrap
-[w3schools information about Bootstrap] (https://www.w3schools.com/bootstrap4/default.asp)
+[w3schools information about Bootstrap](https://www.w3schools.com/bootstrap4/default.asp)
 
 To use Bootstrap on your webpage, you need to add these tags inside of the <head></head> tags:
 
