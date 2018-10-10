@@ -10,6 +10,8 @@
 
 [Bootstrap website](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
 
+[Bootstrap buttons](https://getbootstrap.com/docs/4.0/components/buttons/)
+
 To use Bootstrap on your webpage, you need to add these tags inside of the head tags:
 
 ```HTML <!-- Latest compiled and minified CSS -->
